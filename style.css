@@ -1,0 +1,75 @@
+
+
+.header1{
+    border-left: 1px solid pink;
+    border-top: 1px solid pink;
+    border-right: 1px solid pink;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 20px;
+}
+
+.site-header{
+    background-color: pink;
+    padding: 10px 5%;
+    box-shadow: 0 1px 3px gray;
+   
+}
+
+.site-header h1{
+    margin: 0;
+    font-size: 20px;
+    color:white;
+    
+}
+
+.nav ul {
+    list-style-type:none;
+    padding:0;
+    margin: 0;
+}
+
+.nav ul li {
+    display:inline;
+}
+
+.nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.header2{
+    border-left: 1px solid pink;
+    border-top: 1px solid pink;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    margin: 20px;
+    clear:right;
+}
+
+.text{
+    font-size: 18px;
+}
+
+body {
+    background-color: aliceblue;
+    font-family: sans-serif;
+    color: black;
+}
+
+.top-bar{
+    background-color: lightblue;
+    text-align: center;
+    padding: 50px;
+    box-shadow: 0 1px 3px gray;
+}
+
+.top-bar h2{
+    margin-top: 0;
+}
+
+.side-col{
+    float: left;
+    width: 30%;
+}
